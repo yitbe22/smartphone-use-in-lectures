@@ -59,7 +59,7 @@ This study is a **quantitative descriptive survey** that answers two questions:
 
 | # | Name | ID | Role |
 |---|---|---|---|
-| 1 | Gebrie Gashaw | UGR/3021/17 | _TBD_ |
+| 1 | Gebrie Gashaw | UGR/3021/17 | _TDB_ |
 | 2 | Hayder Yishak | UGR/8455/17 | _TBD_ |
 | 3 | Yishak Tamirat | UGR/8090/17 | _TBD_ |
 | 4 | Michael Yerom | UGR/8127/17 | _TBD_ |
