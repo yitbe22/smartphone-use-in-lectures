@@ -1,0 +1,12 @@
+# Raw survey exports may contain timestamps, emails or other identifying data
+data/raw/*
+!data/raw/.gitkeep
+
+# Office temp/lock files
+~$*
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
